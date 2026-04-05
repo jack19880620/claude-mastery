@@ -22,4 +22,4 @@
 ```
 
 > 來源：《Claude 大師級使用大全》Ch16
-> 購買完整版：https://jacksonfire526.gumroad.com/l/claude-mastery
+> 購買完整版：https://jacksonfire526.gumroad.com/l/qsiagl

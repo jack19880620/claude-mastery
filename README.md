@@ -1,6 +1,6 @@
 # Claude 大師級使用大全 — Companion Repository
 
-> 購買完整電子書：[立即購買](https://jacksonfire526.gumroad.com/l/claude-mastery) | [Landing Page](https://jacksonfire526.gumroad.com/l/claude-mastery) | [讀者社群](https://ko-fi.com/onewallai)
+> 購買完整電子書：[立即購買](https://jacksonfire526.gumroad.com/l/qsiagl) | [Landing Page](https://jacksonfire526.gumroad.com/l/qsiagl) | [讀者社群](https://ko-fi.com/onewallai)
 
 [![Stars](https://img.shields.io/github/stars/jacksonfire526/claude-mastery?style=social)](https://github.com/jacksonfire526/claude-mastery)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
@@ -385,5 +385,5 @@ claude-mastery/
 <p align="center">
   <b>讓 Claude 發揮 100%——從正確的設定開始。</b>
   <br><br>
-  <a href="https://jacksonfire526.gumroad.com/l/claude-mastery">購買電子書</a> · <a href="https://jacksonfire526.gumroad.com/l/claude-mastery">Landing Page</a> · <a href="https://github.com/jacksonfire526/claude-mastery/issues">回報問題</a>
+  <a href="https://jacksonfire526.gumroad.com/l/qsiagl">購買電子書</a> · <a href="https://jacksonfire526.gumroad.com/l/qsiagl">Landing Page</a> · <a href="https://github.com/jacksonfire526/claude-mastery/issues">回報問題</a>
 </p>
